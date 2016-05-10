@@ -13,8 +13,8 @@ locale:              your locale language # eg. en_us
 name:				         Immigrant Stories
 title:               Washington Immigrant Stories
 tagline:             'tagline'
-description:         'description'
-url:                 immigrantstories.github.io
+description:         'Telling the untold stories of immigrants in Seattle, Washington'
+url:                 http://immigrantstories.github.io
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
@@ -25,7 +25,7 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
+  name:           	 Temo Ojeda
   url:            	 your site url
   facebook:          username
   twitter:           username
