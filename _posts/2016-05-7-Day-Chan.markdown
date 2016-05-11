@@ -8,7 +8,7 @@ categories: profiles
 tags:  profile
 image:
   feature: day.jpg
-  topPosition: 0px
+  topPosition: -400px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
@@ -67,7 +67,7 @@ That I'm learning, and that it makes me happy. If I'm in a place where I'm not l
 
 **Tell me about your goals, any work related or personal goals?**
 
-There's always a lot of goals. I've met many goals by finding the jobs I love to do. I've spent so much time working crappy jobs that now I'm doing everything I do for the joy and love of it. It's also a good goal because my parents immigrated here, and they've had the same jobs since they move here. They didn't learn English, and they didn't chose to open out. But, they have three college sons who are all college graduates! For my mom who never even went to school, because she wasn't allowed to, now has three sons in America, bilingual, and happy. 
+There's always a lot of goals. I've met many goals by finding the jobs I love to do. I've spent so much time working crappy jobs that now I'm doing everything I do for the joy and love of it. It's also a good goal because my parents immigrated here, and they've had the same jobs since they move here. They didn't learn English, and they didn't choose to open out. But, they have three college sons who are all college graduates! For my mom who never even went to school, because she wasn't allowed to, now has three sons in America, bilingual, and happy. 
 
 Personally I'm also working on things like pottery, or playing piano. I'm learning a lot about people, socializing, and I'm learning much later in my life than most people. But there is no specific timeline for people to learn things. Anyone can learn anything if they chose to. Who cares to if they start way later, it even may be better. 
 
@@ -76,7 +76,7 @@ We immigrated to Staten Island, and there the neighborhood I was in was full of 
 
 I think that's one of the hardest parts for immigrants. Once they get here, learn what socializing it. I'm still learning about it. It takes a lifetime to learn those kinds of things.
 
-<blockquote class="largeQuote">"Anyone can learn anything if they chose to. Who cares to if they start way later."</blockquote>
+<blockquote class="largeQuote">"Anyone can learn anything if they choose to. Who cares to if they start way later."</blockquote>
 
 **Right now there's this negative perception towards immigrants, is there anything we can do to change this?**
 

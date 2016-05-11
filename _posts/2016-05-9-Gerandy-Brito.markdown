@@ -8,7 +8,7 @@ categories: profiles
 tags:  profile
 image:
   feature: gerandy.jpg
-  topPosition: 0px
+  topPosition: -300px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
@@ -91,7 +91,7 @@ Un grafo es un conjunto de vértices, piensa personas, que tienen determinadas r
 
 Un grafo sencillo de visualizar, Facebook. Las redes sociales es el boom de los grafos hoy en dia. Aleatorio en el sentido de que tu no sabes donde hay aristas y donde no. En Facebook tu puedes ver un montón de gente pero no sabes quien es amigo de quien. Y esto lo puedes modelarlo de una manera aleatoria, e intentas estudiar ese conjunto de puntos, y obtener propiedades.
 
-**Llevas cuatro años aquí, ¿que sigue? **
+**Llevas cuatro años aquí, ¿que sigue?**
 
 En teoria, ojala y pueda hacer un Post-Doc. Y después, intentaré ser profesor, pero nada seguro. Hay mucho tiempo.
 
