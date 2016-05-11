@@ -1,3 +1,19 @@
+---
+layout: post
+title:  "Gerandy Brito"
+date:   2016-05-9 01:00:00
+last_modified_at:  2016-05-9 01:00:00
+excerpt: "Gerandy Brito is a Math graduate student from Cuba living in Seattle, WA."
+categories: profiles
+tags:  profile
+image:
+  feature: gerandy.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
 *La primera vez que conocí a Gerandy fue hace un año, cuando él ayudaba a mi profesor de calculo. Lo conocí en su oficina, y me salvó de varias integrales. Basta decir que es alguien brillante, y una representación del trabajo duro. Por todo esto y mas, estoy muy feliz de que quisiera ser parte de este proyecto.* 
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.url}}/assets/images/hero/gerandy.jpg);"></div>
