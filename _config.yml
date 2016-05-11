@@ -1,9 +1,9 @@
 
 # Syntax highlighting
-highlighter:         pygments
+highlighter:         rouge
 
 # Permalinks
-permalink:           /:title
+# permalink:           /:title
 
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
