@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Day Chan"
-date:   2016-05-10 01:00:00
-last_modified_at:  2016-05-10 01:00:00
+date:   2016-05-7 01:00:00
+last_modified_at:  2016-05-7 01:00:00
 excerpt: "Day Chan is a graphic designer and farmer from Hong Kong working in Seattle, Washington."
 categories: profiles
 tags:  profile
@@ -13,7 +13,9 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-*I met Day on University Way after an introduction from a common friend who had worked with him. She told me about Day and not only about the great work he was doing with Olsen Farms, but also about his unique outlook on life. Needless to say, by the end of the interview, I had run out of words of admiration. *
+*I met Day on University Way after an introduction from a common friend who had worked with him. She told me about Day and not only about the great work he was doing with Olsen Farms, but also about his unique outlook on life. Needless to say, by the end of the interview, I had run out of words of admiration.*
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.url}}/assets/images/hero/day.jpg);"></div>
 
 **Where are you from and how was growing up over there?**
 
@@ -32,17 +34,10 @@ My folks mainly kept to themselves, they hung out with their relatives, their fa
 
 My grandfather was in, I think, the army in China and was in a ship that was near New York, and he jumped off the boat and swam to New York. And then a year later my grandmother came. And then a couple of her kids. They were here for a few years, and then my parents came shortly after that with me and my two brothers. 
 
-**Temo:** Wait, so we are talking New York, and now you're in Seattle
+**Temo:** Wait, so we are talking New York, and now you're in Seattle...
 
 **Day:** Yea I have a friend here and came to visit him. I was in Washington for just two weeks, then when I went back to New York I realized I didn't belong to New York, and I bought a plane ticket and just left. I've been here since 2001, so almost fifteen years. And I feel that from Hong Kong to New York which are really crazy,big city places, I like Seattle because it's smaller, slower, and it has a lot of nature that connects the people to the nature. Like on a sunny day people come out, whereas in New York people won't come out because of work or other things to do. People here are more in tune with reality. But I like Seattle a lot, I've grown roots here, and I've found more of my place and my people.
 
-**What is the thing you like the most about Seattle?**
-
-Seattle is pretty much built into the nature. Downtown is really tiny, and once you're out of there you're all in these neighborhoods where there is not a lot of big buildings, and it becomes more about just the people living such neighborhoods instead of huge cities.
-
-**What about the least thing you like about Seattle?**
-
-Right now, I hate the driving! If you're driving, please be careful out there. Always look, because there are other people who are no longer looking.
 
 **Now tell me about your job. What do you do here?**
 
@@ -60,14 +55,13 @@ What it's important for me is that I love everything that I do, every moment of 
 
 **Now, Olsen Farms, what led you to this job?**
 
-What led me to these jobs was working tons and tons of jobs that I hated. I've worked all my life, starting when I was 14-15, delivering newspapers. I've filled every possible cashier job, gas stations, grocery stores, art stores. I've learned quickly that it doesn't really matter what you're doing, but it more matters who you are doing it around. If you enjoy the people you are with every single day, it doesn't matter how hard the job is, you're having a good time.
+What led me to this job was working tons and tons of jobs that I hated. I've worked all my life, starting when I was 14-15, delivering newspapers. I've filled every possible cashier job, gas stations, grocery stores, art stores. I've learned quickly that it doesn't really matter what you're doing, but it more matters who you are doing it around. If you enjoy the people you are with every single day, it doesn't matter how hard the job is, you're having a good time.
 
 But that also I like being around the people that also work hard. Sure, we're having a good time, but we can get so much done because we are all doing these things because we want to, not because we're being told. 
 
-What attracted you to farming?
---- Around min 17
+<blockquote class="largeQuote">"I've learned quickly that it doesn't really matter what you're doing, but it more matters who you are doing it around."</blockquote>
 
-**Now I want to learn more about your inspirations. What most motivates you to do what you're doing right now?**
+**Tell me more about your inspirations. What most motivates you to do what you're doing right now?**
 
 That I'm learning, and that it makes me happy. If I'm in a place where I'm not learning or it isn't bringing me joy, I remove myself from those situations. I'm trying to learn how to make better friends in a similar way. If I meet someone that I feel like they're just sucking away all my energy, I'm just not gonna spend my time with them, cause I can have a better time even just walking by myself.
 
@@ -82,6 +76,8 @@ We immigrated to Staten Island, and there the neighborhood I was in was full of 
 
 I think that's one of the hardest parts for immigrants. Once they get here, learn what socializing it. I'm still learning about it. It takes a lifetime to learn those kinds of things.
 
+<blockquote class="largeQuote">"Anyone can learn anything if they chose to. Who cares to if they start way later."</blockquote>
+
 **Right now there's this negative perception towards immigrants, is there anything we can do to change this?**
 
 I think it's changing right now, faster and faster. What would change these perceptions is when they talk to one another face to face. When a person talks to another person they will learn about their personal experiences, and learn that everyone came from somewhere. Things like racism are taught, because I don't think kids are naturally racists since it doesn't make sense. Kids when they see each other, will just play! They don't judge because somebody's different, everything is different to them. What I think will change people's mind is when they talk one another, because when this happens, they learn that whatever they knew, was wrong. 
@@ -94,25 +90,13 @@ All the things that have happened, makes you who you are presently. Even the thi
 
 There are tough lessons out there, but they need to be there. Without them, really moving songs are not gonna move you unless you know tragic moments. That was makes music joyful or sad, your experiences that are connected with it. The more you feel, the more you will appreciate.
 
-**What is something your friends say you're good at?**
-
-I'm told often that I'm calm. And because I'm calm, other people feel calm around me. It forces other people to slow down. 
-
-Would you rather be smart or lucky, and why?
--- Min 38
-
-What do you think will change in the next 5 years?
--- Min 39
 
 **If you could you describe yourself in one word, what would it be, and why?**
 
-I would describe myself as "susurrus". 
+I would describe myself as *susurrus* . 
 
-**What does that even mean? 
-**It's like a soft sound. Maybe like hay moving through a field. Going back to what my friends say, I love silence. Silence allows things to be heard. It's like when you're making chocolate chip cookies and you need to put the salt which allows you to taste the difference. Silence allows you to hear the different sounds out there. We're living in a culture with more and more information. Texts, billboards, and when you have so much of those, what can be heard? What can be seen? 
-
-Where can people find you?
--- min 43
+**What does that mean?**
+It's like a soft sound. Maybe like hay moving through a field. Going back to what my friends say, I love silence. Silence allows things to be heard. It's like when you're making chocolate chip cookies and you need to put the salt which allows you to taste the difference. Silence allows you to hear the different sounds out there. We're living in a culture with more and more information. Texts, billboards, and when you have so much of those, what can be heard? What can be seen? 
 
 
 **What would you tell to someone that's immigrating to another place, or just here to the US?**
